@@ -1,0 +1,39 @@
+.contenedor-principal {
+    padding: 30px;
+    background-color: rgba(123, 169, 149, 0.331);
+    height: 800px;
+  }
+
+  .contenedor-libro {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+  }
+
+  .contenedor-biblioteca {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+  }
+
+  .columna-tablas {
+    flex: 2;
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  form > * {
+    margin-bottom: 10px;
+  }
+  
